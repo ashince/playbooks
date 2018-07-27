@@ -1,0 +1,3 @@
+export AZURE_AD_USER=
+export AZURE_PASSWORD=
+export AZURE_SUBSCRIPTION_ID=
